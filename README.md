@@ -1,4 +1,4 @@
-# depression resources
+# Depression Resources
 I suffer from depression. Here are some resources.
 
 # Hotlines
@@ -10,7 +10,7 @@ I suffer from depression. Here are some resources.
 
 * Crisis Text Line http://crisistextline.org or **TEXT "GO" TO 741741**
 
-## Report Self-Harm
+# Report Self-Harm
 
 * https://facebook.com/help/contact/305410456169423
 * https://support.twitter.com/forms/suicide
